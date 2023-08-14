@@ -1,0 +1,522 @@
+[
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_transpose_fast.dir/src/tuning/kernels/transpose_fast.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/transpose_fast.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/transpose_fast.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xconvgemm/xconvgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xconvgemm/xconvgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xconvgemm/xconvgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_copy_pad.dir/src/tuning/kernels/copy_pad.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/copy_pad.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/copy_pad.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_copy_fast.dir/src/tuning/kernels/copy_fast.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/copy_fast.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/copy_fast.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_transpose_pad.dir/src/tuning/kernels/transpose_pad.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/transpose_pad.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/transpose_pad.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xgemm_direct.dir/src/tuning/kernels/xgemm_direct.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemm_direct.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemm_direct.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xconvgemm.dir/src/tuning/kernels/xconvgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xconvgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xconvgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xaxpy.dir/src/tuning/kernels/xaxpy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xaxpy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xaxpy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xdot.dir/src/tuning/kernels/xdot.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xdot.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xdot.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_invert.dir/src/tuning/kernels/invert.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/invert.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/invert.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_routine_xgemm.dir/src/tuning/routines/xgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/routines/xgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/routines/xgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_routine_xtrsv.dir/src/tuning/routines/xtrsv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/routines/xtrsv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/routines/xtrsv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_routine_xtrsv.dir/test/test_utilities.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/test/test_utilities.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/test/test_utilities.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_routine_xgemm.dir/test/test_utilities.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/test/test_utilities.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/test/test_utilities.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xamax.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xamax.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xamax.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xgemv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgemv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgemv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/utilities/compile.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/compile.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/compile.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/utilities/clblast_exceptions.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/clblast_exceptions.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/clblast_exceptions.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/utilities/utilities.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/utilities.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/utilities.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/kernel_preprocessor.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/kernel_preprocessor.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/kernel_preprocessor.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/tuning/tuning.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/tuning.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/tuning.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/utilities/timing.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/timing.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/timing.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -I/home/wukong/docroot/20230719/5/source/CLBlast-master -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/tuners_common_library.dir/src/tuning/configurations.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/configurations.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/configurations.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/database.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/database.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/database.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/common.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/common.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/common.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/utilities/compile.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/compile.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/compile.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/utilities/clblast_exceptions.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/clblast_exceptions.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/clblast_exceptions.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/utilities/timing.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/timing.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/timing.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/utilities/utilities.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/utilities.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/utilities/utilities.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/api_common.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/api_common.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/api_common.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/cache.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/cache.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/cache.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/kernel_preprocessor.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/kernel_preprocessor.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/kernel_preprocessor.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routine.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routine.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routine.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xinvert.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xinvert.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xinvert.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/tuning/configurations.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/configurations.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/configurations.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/clblast.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/clblast.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/clblast.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/clblast_c.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/clblast_c.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/clblast_c.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/tuning/tuning_api.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/tuning_api.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/tuning_api.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xswap.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xswap.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xswap.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xscal.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xscal.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xscal.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xcopy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xcopy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xcopy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xaxpy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xaxpy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xaxpy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xdot.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdot.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdot.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xdotu.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdotu.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdotu.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xdotc.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdotc.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xdotc.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xnrm2.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xnrm2.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xnrm2.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level1/xasum.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xasum.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level1/xasum.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xgbmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgbmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgbmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xhemv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhemv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhemv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xhbmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhbmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhbmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xhpmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xsymv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsymv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsymv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xsbmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsbmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsbmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xspmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xtrmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtrmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtrmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xtbmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtbmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtbmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xtpmv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtpmv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtpmv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xtrsv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtrsv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xtrsv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xger.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xger.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xger.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xgeru.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgeru.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgeru.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xgerc.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgerc.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xgerc.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xher.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xher.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xher.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xhpr.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpr.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpr.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xher2.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xher2.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xher2.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xhpr2.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpr2.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xhpr2.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xsyr.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsyr.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsyr.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xspr.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspr.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspr.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xsyr2.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsyr2.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xsyr2.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level2/xspr2.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspr2.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level2/xspr2.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xsymm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsymm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsymm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xhemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xhemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xhemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xsyrk.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsyrk.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsyrk.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xherk.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xherk.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xherk.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xgemm.dir/src/tuning/kernels/xgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xsyr2k.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsyr2k.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xsyr2k.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xher2k.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xher2k.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xher2k.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xtrmm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xtrmm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xtrmm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/level3/xtrsm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xtrsm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/level3/xtrsm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xhad.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xhad.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xhad.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xomatcopy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xomatcopy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xomatcopy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xim2col.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xim2col.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xim2col.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xcol2im.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xcol2im.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xcol2im.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xconvgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xconvgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xconvgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xaxpybatched.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xaxpybatched.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xaxpybatched.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xgemmbatched.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xgemmbatched.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xgemmbatched.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/routines/levelx/xgemmstridedbatched.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xgemmstridedbatched.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/routines/levelx/xgemmstridedbatched.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/copy/copy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/copy/copy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/copy/copy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/pad/pad.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/pad/pad.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/pad/pad.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/padtranspose/padtranspose.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/padtranspose/padtranspose.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/padtranspose/padtranspose.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/transpose/transpose.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/transpose/transpose.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/transpose/transpose.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xaxpy/xaxpy.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xaxpy/xaxpy.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xaxpy/xaxpy.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xdot/xdot.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xdot/xdot.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xdot/xdot.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xger.dir/src/tuning/kernels/xger.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xger.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xger.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xgemm/xgemm.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemm/xgemm.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemm/xgemm.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xgemm_direct/xgemm_direct.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemm_direct/xgemm_direct.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemm_direct/xgemm_direct.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xgemv/xgemv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv/xgemv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv/xgemv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xgemv_fast/xgemv_fast.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv_fast/xgemv_fast.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv_fast/xgemv_fast.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xgemv_fast_rot/xgemv_fast_rot.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv_fast_rot/xgemv_fast_rot.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xgemv_fast_rot/xgemv_fast_rot.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -o CMakeFiles/clblast_tuner_xgemv.dir/src/tuning/kernels/xgemv.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemv.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/tuning/kernels/xgemv.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/xger/xger.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xger/xger.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/xger/xger.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/invert/invert.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/invert/invert.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/invert/invert.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/gemm_routine/gemm_routine.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/gemm_routine/gemm_routine.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/gemm_routine/gemm_routine.cpp"
+    },
+    {
+        "command": "c++ -c -DOPENCL_API -Dclblast_EXPORTS -I/home/wukong/docroot/20230719/5/source/CLBlast-master/include -I/home/wukong/docroot/20230719/5/source/CLBlast-master/src -std=c++11 -O2 -Wall -Wno-comment -Wno-return-type -Wno-switch -Wno-missing-noreturn -Wno-unused-function -Wno-attributes -Wno-unused-variable -fPIC -o CMakeFiles/clblast.dir/src/database/kernels/trsv_routine/trsv_routine.cpp.o /home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/trsv_routine/trsv_routine.cpp",
+        "directory": "/home/wukong/docroot/20230719/5/source/CLBlast-master/wkbuild-9e9d04ed",
+        "file": "/home/wukong/docroot/20230719/5/source/CLBlast-master/src/database/kernels/trsv_routine/trsv_routine.cpp"
+    }
+]
